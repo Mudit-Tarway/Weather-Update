@@ -1,0 +1,66 @@
+body{
+    background-image: url('DALL·E 2025-03-08 16.42.41 - A beautiful nature scene featuring a serene lake surrounded by lush green forests and majestic mountains in the background. The sky is bright and clea.webp');
+}
+#item01{
+    display:flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.update{
+    height:440px;
+    width:500px;
+    background-color:rgb(255, 255, 255);
+    margin-left:500px;
+}
+#item02{
+    display:flex;
+    justify-content: center;
+    width:300px;
+    height:20px;
+    padding-left:70px;
+    padding-top:30px;
+}
+#item02-1{
+    background-color: antiquewhite;
+    font-weight: bold;
+    margin-left:90px;
+}
+#item02-2{
+    margin-left: 20px;
+    background-color: black;
+    color:white;
+}
+#item02-2:hover{
+    background-color: dimgrey;
+    cursor:pointer;
+}
+#item03{
+    display:flex;
+    justify-content: center;
+    padding:20px;
+}
+#item03-1{
+    height:100px;
+    width:100px;
+}
+#item04-1{
+    text-align: center;
+}
+#item04-2{
+    text-align: center;
+    font-weight: bolder;
+}
+#item05{
+    display:flex;
+    justify-content:space-around;
+}
+#item05-1,#item05-2,#item05-3{
+    height:67px;
+    width:120px;
+    background-color: antiquewhite;
+    text-align:center;
+    margin-top:50px;
+    font-weight: bold;
+}
